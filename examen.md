@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>transfert de neymar au psg </p>
+    <a href="https://www.lemonde.fr/sport/article/2022/07/27/neymar-juge-en-octobre-pour-des-irregularites-lors-de-son-transfert-a-barcelone-en-2013_6136336_3242.html#:~:text=Saga%20judiciaire,au%20moins%2083%2C3%20millions.">clic ici</a>
+    <a href="https://www.eurosport.fr/football/ligue-1/2017-2018/officiel-neymar-signe-5-ans-au-psg_sto6276146/story.shtml">clic ici</a> 
+    <a href="https://www.lesechos.fr/2017/08/le-psg-soffre-le-transfert-du-siecle-avec-neymar-157623">clic ici</a>
+    <a href="https://www.lepoint.fr/sport/3-aout-2017-le-jour-ou-neymar-a-signe-au-psg-26-12-2017-2182445_26.php">clic ici</a>
+    <a href="https://www.foot01.com/equipe/paris/2017-neymar-a-ete-force-de-signer-au-psg-421940">clic ici</a>
+    <a href="https://madeinfoot.ouest-france.fr/infos/article-psg-l-arrivee-de-neymar-a-coute-plus-de-489-millions-d-euros-au-psg-353639.html">clic ici</a>
+    <a href="https://www.eurosport.fr/football/ligue-1/2021-2022/transferts-neymar-a-rapporte-400-millions-d-euros-au-psg-apres-sa-premiere-saison-en-2017-18_sto8529951/story.shtml">clic ici</a>
+    <a href="https://www.goal.com/fr/news/neymar-au-psg-un-transfert-bien-plus-cher-que-prevu/1gpz4y16uvjm8158k88m00e16l">clic ici</a>
+    <a href="https://www.radiofrance.fr/mouv/psg-neymar-a-rapporte-plus-de-400-millions-d-euros-lors-de-sa-1ere-saison-8359496#:~:text=Achet%C3%A9%20220%20millions%20d'euros,de%20l'histoire%20du%20football.">clic ici</a>
+    <a href="https://www.lefigaro.fr/sports/football/transferts/actualites/la-liga-veut-bloquer-le-transfert-de-neymar-au-psg-870686">clic ici</a>
+</body>
+</html>
